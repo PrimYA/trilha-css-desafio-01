@@ -1,6 +1,6 @@
 # Desafio 01: Criando sua primeira Landing Page com HTML e CSS
 
-Este é o primeiro desafio da Trilha de CSS da [DIO](dio.me), com objetivo de construir uma Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS.
+Este é o primeiro desafio da Trilha de CSS da [DIO](dio.me), com objetivo de construir uma Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS: [Link da página](https://primya.github.io/trilha-css-desafio-01/).
 
 _______
 
